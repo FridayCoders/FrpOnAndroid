@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RxjavaExample</string>
+    <string name="engine">Engine</string>
+    <string name="speed">Speed</string>
+    <string name="altitude">Altitude</string>
+    <string name="status">Status</string>
+    <string name="take_off">takeoff</string>
+    <string name="landing">landing</string>
+
+</resources>
